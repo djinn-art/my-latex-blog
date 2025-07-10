@@ -2,8 +2,9 @@ title: My LaTeX Blog
 email: djinn@example.com
 description: >-
   A Jekyll blog with MathJax and tables.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "/my-latex-blog" # ← this must match your repository name
+url: "https://djinn-art.github.io"
+
 # theme: minima
 plugins:
   - jekyll-feed
